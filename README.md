@@ -11,6 +11,10 @@
 
 This would be my first challenge from [frontendmentor.io](https://www.frontendmentor.io), this challenge can be a perfect example of how a basic webpage can be build i.e., can be as easy as possible with only HTML, CSS or as complex as possible with any of the frameworks etc.
 
+## Links
+
+[Live URL](https://lazzyy.github.io/QR-code-component-frontendmentor)
+
 ## Built With
 
 ---
