@@ -15,6 +15,7 @@
 body{
     background-color: var(--lightgray);
     overflow-y: hidden;
+    min-height: 100vh;
 }
 
 .container{
@@ -30,6 +31,7 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+    justify-content: center;
     border-color: var(--lightgray);
     box-shadow: -0.063rem 0.063rem 1.5rem -0.688rem rgba(0, 0, 0, 1);
 }
